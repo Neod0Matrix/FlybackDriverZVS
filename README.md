@@ -1,7 +1,7 @@
 FlybackDriverZVS 反激式ZVS PCB设计
 
 版本：v0p4_LTE
-最后更新：2018/04/12pm2109
+最后更新：2018/10/28pm1558
 Designed by T.WKVER@Lordz Zidel
 
 原作者Vladimiro Mazzilli，在此向其致敬
@@ -29,6 +29,7 @@ v0p4_LTE 补全上一版的泪滴
 考虑设计反接保护和过欠压报警接口
 
 v0p5_LTE 在上一版基础上稍作修改，没有大动作，这个小玩意作为单独的模块基本可以完结了
+去掉多余的D6二极管，重新布局
 
 硬件测试结果：
 空载测试OK，H20R1203为IGBT管不适宜用于ZVS，FQA40N25的散热能力最好
